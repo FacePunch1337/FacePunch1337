@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  <img alt="github-snake" src="https://github.com/FacePunch1337/FacePunch1337/blob/output/github-contribution-grid-snake.gif" />
+![Snake animation](https://github.com/{{FacePunch1337}}/{{FacePunch1337}}/blob/output/github-contribution-grid-snake.svg)
 
 
