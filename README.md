@@ -7,16 +7,8 @@
 
   
 <div align="center">
-
+  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FacePunch1337&theme=dark)](https://github.com/FacePunch1337/leetcode-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacePunch1337&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FacePunch1337&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FacePunch1337&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FacePunch1337&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FacePunch1337&theme=github_dark)
-
-
 
 </div>
 
