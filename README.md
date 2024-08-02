@@ -6,11 +6,6 @@
 
 
   
-<div align="center">
-  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FacePunch1337&theme=dark)](https://github.com/FacePunch1337/leetcode-stats)
-
-</div>
 
 
   
